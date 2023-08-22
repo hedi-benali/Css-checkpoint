@@ -1,0 +1,33 @@
+nav{
+    display: inline;
+}
+#body{
+   font-family:"roboto" ;
+    background-color: rgb(253, 238, 255);
+}
+img{
+    display: flex; justify-content: start ; align-items:flex-start;
+}
+#Portfolio{
+    display: flex; justify-content: center; align-items: center;
+
+    color: #f7f7f482;
+    text-align: center;
+    background-color: #b43535;
+    padding: 1.5%;
+    border-radius: 15%;width: 100%;    
+}
+.lc{
+    padding: 4%;
+    background-color:184f9d ;
+}
+.a{
+    color: black;
+    text-decoration: none;
+    border: 5px inset black;
+}
+a:hover{ color: #78aaf0;
+}
+#p1{margin-left: 15%; color: crimson;
+}
+.h2{color: #3e1a86}
